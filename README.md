@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+## TrustStarter: A Decentralized Fundraising Platform with Milestone-based Accountability
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### TrustStarter Abstract:
+This decentralized application (DApp) offers a more accountable and transparent variation of the traditional Kickstarter platform. By leveraging the Ethereum blockchain, the system empowers backers with voting rights, ensuring projects are held accountable for their milestones before funds are disbursed.
 
-## Available Scripts
+### Key Features:
+1. **Milestone-Based Payouts:**
+   - Project creators define various milestones with corresponding descriptions and percentage allocations from the total campaign goal.
+   - Funds are disbursed to the campaign owner only when a milestone is achieved and approved by the backers.
+   
+2. **Backer Voting System:**
+   - Backers have the right to vote on the completion of each milestone.
+   - If a milestone vote fails three times consecutively, the campaign is deemed inactive.
 
-In the project directory, you can run:
+3. **Dissolution Voting:**
+   - The campaign owner can initiate a dissolution vote.
+   - A successful dissolution vote ends the campaign prematurely.
 
-### `npm start`
+4. **Refund Mechanism:**
+   - In cases of campaign failure, investors can withdraw refunds proportional to their investment.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+5. **Open Comments:**
+   - Campaign owners can add comments to their campaigns, providing regular updates or necessary clarifications to backers.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+6. **Transparent Access:**
+   - All campaign details, milestones, votes, and comments are publicly accessible.
+   - Investors can track campaigns they've backed, ensuring transparency.
 
-### `npm test`
+### Benefits:
+- **Enhanced Accountability:** The milestone-based structure ensures projects are making promised progress before funds are released.
+- **Backer Empowerment:** By giving backers a voice through the voting mechanism, they can ensure their funds are used appropriately.
+- **Transparency:** Every transaction and decision is recorded on the blockchain, providing unparalleled transparency to all participants.
+- **Security:** Leveraging Ethereum's smart contract capability ensures that the rules of the platform are executed as written, minimizing trust-based risks.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Why do we need Web3 in the current Space?
+While Kickstarter and Indiegogo et al have revolutionized crowdfunding, enabling countless innovations to come to life, they have not been without their challenges. 
 
-### `npm run build`
+One significant issue that has plagued these platforms is the emergence of fraudulent projects or creators who fail to deliver on their promises, leaving backers without their expected rewards or any form of recompense. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This problem stems from the inherent **trust-based** model where funds are disbursed upfront **without any accountability measures**. 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Unlike TrustStarter, once a project on Kickstarter or Indiegogo meets its funding goal, the creator receives the funds almost immediately, **regardless of whether they fulfill their project commitments**. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+In contrast, TrustStarter's milestone-based disbursement system, combined with the backer voting mechanism, directly addresses this vulnerability. By holding project creators accountable for each stage of their development and only releasing funds upon achieving and validating milestones, TrustStarter offers a more robust, transparent, and reliable platform. 
 
-### `npm run eject`
+This approach drastically reduces the potential for scams and failed projects, offering backers greater confidence and security in their investments.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Summary:
+TrustStarter aims to revitalize the crowdfunding model by providing a transparent, accountable, and decentralized Kickstarter alternative. By prioritizing backer rights and project accountability through blockchain technology, it fosters trust, ensures progress, and sets a new standard for crowdfunding platforms in the future.
