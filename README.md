@@ -11,8 +11,8 @@ This decentralized application (DApp) offers a more accountable and transparent 
    - Funds are disbursed to the campaign owner only when a milestone is achieved and approved by the backers.
    
 2. **Backer Voting System:**
-   - Backers have the right to vote on the completion of each milestone.
-   - If a milestone vote fails three times consecutively, the campaign is deemed inactive.
+   - Backers have the right to vote on the completion of each milestone. Only upon a sucessful vote, Milestone Funding is paid out to the Campaign Creators
+   - If a milestone vote fails three times consecutively, the campaign is deemed inactive and disbanded.
 
 3. **Dissolution Voting:**
    - The campaign owner can initiate a dissolution vote.
@@ -21,8 +21,8 @@ This decentralized application (DApp) offers a more accountable and transparent 
 4. **Refund Mechanism:**
    - In cases of campaign failure, investors can withdraw refunds proportional to their investment.
 
-5. **Open Comments:**
-   - Campaign owners can add comments to their campaigns, providing regular updates or necessary clarifications to backers.
+5. **Progression Reports:**
+   - Campaign owners can and have to add regular progression updates to their campaigns, providing regular status updates to backers. 
 
 6. **Transparent Access:**
    - All campaign details, milestones, votes, and comments are publicly accessible.
@@ -46,6 +46,12 @@ Unlike TrustStarter, once a project on Kickstarter or Indiegogo meets its fundin
 In contrast, TrustStarter's **milestone-based disbursement system**, combined with the backer voting mechanism, directly addresses this vulnerability. By **holding project creators accountable** for each stage of their development and only releasing funds upon achieving and validating milestones, TrustStarter offers a more robust, transparent, and reliable platform. 
 
 This approach drastically reduces the potential for scams and failed projects, offering backers greater confidence and security in their investments.
+
+Statistically, most projects will fail, so those mechanics are desperately needed to legitimize fundraising for consumers.
+
+
+![Graphic_Kickstarter](https://github.com/Ender13120/TrustStarter/assets/117198798/51babc90-c5a1-4416-b8b0-b2f3d3deb1a0)
+
 
 ### Summary:
 TrustStarter aims to revitalize the crowdfunding model by providing a **transparent**, **accountable**, and **decentralized Community** Fundraising alternative. By prioritizing **backer rights** and project accountability through blockchain technology, it fosters trust, ensures progress, and sets a new standard for crowdfunding platforms in the future.
