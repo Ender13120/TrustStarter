@@ -1,3 +1,5 @@
+## Current Demo ( WIP ) 
+
 ## TrustStarter: A Decentralized Fundraising Platform with Milestone-based Accountability
 
 ### TrustStarter Abstract:
@@ -47,3 +49,6 @@ This approach drastically reduces the potential for scams and failed projects, o
 
 ### Summary:
 TrustStarter aims to revitalize the crowdfunding model by providing a transparent, accountable, and decentralized Kickstarter alternative. By prioritizing backer rights and project accountability through blockchain technology, it fosters trust, ensures progress, and sets a new standard for crowdfunding platforms in the future.
+
+
+## [Smart-Contracts](https://github.com/Ender13120/decentralised_kickstarter_contracts)
