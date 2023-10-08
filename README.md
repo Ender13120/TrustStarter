@@ -1,4 +1,4 @@
-## Current Demo ( WIP ) 
+## Current Demo ( [WIP](https://trust-starter.vercel.app/) 
 
 ## TrustStarter: A Decentralized Fundraising Platform with Milestone-based Accountability
 
