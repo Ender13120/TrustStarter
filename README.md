@@ -43,12 +43,12 @@ This problem stems from the inherent **trust-based** model where funds are disbu
 
 Unlike TrustStarter, once a project on Kickstarter or Indiegogo meets its funding goal, the creator receives the funds almost immediately, **regardless of whether they fulfill their project commitments**. 
 
-In contrast, TrustStarter's milestone-based disbursement system, combined with the backer voting mechanism, directly addresses this vulnerability. By holding project creators accountable for each stage of their development and only releasing funds upon achieving and validating milestones, TrustStarter offers a more robust, transparent, and reliable platform. 
+In contrast, TrustStarter's **milestone-based disbursement system**, combined with the backer voting mechanism, directly addresses this vulnerability. By **holding project creators accountable** for each stage of their development and only releasing funds upon achieving and validating milestones, TrustStarter offers a more robust, transparent, and reliable platform. 
 
 This approach drastically reduces the potential for scams and failed projects, offering backers greater confidence and security in their investments.
 
 ### Summary:
-TrustStarter aims to revitalize the crowdfunding model by providing a transparent, accountable, and decentralized Kickstarter alternative. By prioritizing backer rights and project accountability through blockchain technology, it fosters trust, ensures progress, and sets a new standard for crowdfunding platforms in the future.
+TrustStarter aims to revitalize the crowdfunding model by providing a **transparent**, **accountable**, and **decentralized Community** Fundraising alternative. By prioritizing **backer rights** and project accountability through blockchain technology, it fosters trust, ensures progress, and sets a new standard for crowdfunding platforms in the future.
 
 
 ## [Smart-Contracts](https://github.com/Ender13120/decentralised_kickstarter_contracts)
