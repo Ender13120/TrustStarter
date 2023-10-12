@@ -1,5 +1,6 @@
-Current Demo [WIP](https://trust-starter.vercel.app/)
+ [**Current Demo WIP**](https://trust-starter.vercel.app/)
 
+[**Smart-Contracts**](https://github.com/Ender13120/decentralised_kickstarter_contracts)
 ## TrustStarter: A Decentralized Fundraising Platform with Milestone-based Accountability
 
 ### TrustStarter Abstract:
@@ -57,4 +58,4 @@ Statistically, most projects will fail, so those mechanics are desperately neede
 TrustStarter aims to revitalize the crowdfunding model by providing a **transparent**, **accountable**, and **decentralized Community** Fundraising alternative. By prioritizing **backer rights** and project accountability through blockchain technology, it fosters trust, ensures progress, and sets a new standard for crowdfunding platforms in the future.
 
 
-## [Smart-Contracts](https://github.com/Ender13120/decentralised_kickstarter_contracts)
+
